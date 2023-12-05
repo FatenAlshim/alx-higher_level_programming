@@ -6,7 +6,7 @@ What you should learn from this project:
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * How to open a file
 * How to write text in a file
-* How to read the full content of a file 
+* How to read the full content of a file
 * How to read a file line by line
 * How to move the cursor in a file
 * How to make sure a file is closed after using it
@@ -14,7 +14,7 @@ What you should learn from this project:
 * What is JSON
 * What is serialization
 * What is deserialization
-* How to convert a Python data structure to a JSON string 
+* How to convert a Python data structure to a JSON string
 * How to convert a JSON string to a Python data structure
 
 ---
@@ -76,7 +76,7 @@ What you should learn from this project:
 
 
 ### [14. Pascal's Triangle](./14-pascal_triangle.py)
-* Technical interview preparation: 
+* Technical interview preparation:
 
 
 ### [15. Search and update](./100-append_after.py)
